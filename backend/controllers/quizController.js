@@ -55,7 +55,7 @@ class QuizController {
             }
 
             // Show warning on first tab switch
-            if (tabSwitchCount === 1) {
+            if (tabSwitchCount === 2) {
                 return res.json({
                     action: 'warning',
                     message: 'Warning: Switching tabs is not allowed. Next switch will auto-submit your quiz.',
