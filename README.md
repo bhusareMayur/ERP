@@ -6,6 +6,10 @@ A complete prototype of an ERP quiz system with **tab switch detection**, **auto
 
 ---
 
+## 🎥 Demo Video
+👉 [Click here to watch demo](https://tinyurl.com/epr-demo)
+
+
 ## ✨ Key Highlights  
 
 - ⚡ **Real-time tab monitoring** → detects tab switches instantly.  
@@ -106,6 +110,7 @@ database: ERP
 ```bash
 npm start
 ```
+
 📝 License
 
 This project is a prototype created for educational purposes.
