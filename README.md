@@ -106,6 +106,12 @@ database: ERP
 ```bash
 npm start
 ```
+
+
+
+# Demo
+<video src="./Demo/ERP-Demo.mp4" controls width="600" ></video>
+
 📝 License
 
 This project is a prototype created for educational purposes.
