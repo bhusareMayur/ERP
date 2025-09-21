@@ -7,7 +7,10 @@ A complete prototype of an ERP quiz system with **tab switch detection**, **auto
 ---
 
 ## 🎥 Demo Video
-👉 [Click here to watch demo](https://tinyurl.com/epr-demo)
+<a href="https://tinyurl.com/epr-demo" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue?style=for-the-badge&logo=youtube" />
+</a>
+
 
 
 ## ✨ Key Highlights  
